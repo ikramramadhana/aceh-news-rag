@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #faf9f6;
+  --ink: #22262b;
+  --ink-muted: #83898f;
+  --primary: #0f9d77;
+  --primary-dark: #0b7a5c;
+  --primary-soft: #e6f5ef;
+  --accent: #ff8a5b;
+  --line: #e9e6df;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-inter), sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-jakarta), sans-serif;
+}
+
+/* ---- Tema gelap (landing + chat). Ganti --d-accent untuk ubah warna aksen. ---- */
+.dark-theme {
+  --d-bg: #0a0d0c;
+  --d-surface: #131816;
+  --d-surface-2: #1b221f;
+  --d-line: #26302c;
+  --d-ink: #f2f5f3;
+  --d-muted: #8e9a94;
+  --d-accent: #1fc58e;
+  --d-accent-2: #f5c542;
+  --d-accent-soft: rgba(31, 197, 142, 0.12);
+  background: var(--d-bg);
+  color: var(--d-ink);
+}
+
+.hero-glow {
+  background:
+    radial-gradient(60% 50% at 75% 40%, rgba(31, 197, 142, 0.22), transparent 70%),
+    radial-gradient(40% 40% at 20% 80%, rgba(245, 197, 66, 0.1), transparent 70%),
+    var(--d-bg);
+}
+
+.wave-line {
+  position: absolute;
+  left: -10%;
+  width: 120%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--d-accent), var(--d-accent-2), transparent);
+  opacity: 0.55;
+  filter: blur(0.4px);
+  animation: wave 7s ease-in-out infinite alternate;
+}
+
+@keyframes wave {
+  from { transform: translateY(-14px) rotate(-1.2deg); }
+  to { transform: translateY(14px) rotate(1.2deg); }
+}
+
+@keyframes floaty {
+  from { transform: translateY(-8px); }
+  to { transform: translateY(8px); }
+}
+
+.floaty { animation: floaty 4s ease-in-out infinite alternate; }
+
+.dark-theme ::-webkit-scrollbar { width: 8px; height: 8px; }
+.dark-theme ::-webkit-scrollbar-thumb { background: var(--d-line); border-radius: 8px; }
+
+.dark-theme input[type="date"] { color-scheme: dark; }
