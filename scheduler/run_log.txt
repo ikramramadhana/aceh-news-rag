@@ -1,0 +1,165 @@
+[2026-09-18 11:54:15] Mulai pipeline harian. Cek berita baru sejak 2026-09-16T07:57:52...
+[2026-09-18 11:54:18] Ditemukan 5 berita baru.
+[2026-09-18 11:54:23]   Selesai: [71931] WAGUB ACEH APRESIASI FKPA, DORONG PEREMPUAN ACEH PERKUAT UMK
+[2026-09-18 11:54:25]   Selesai: [71934] PEMERINTAH ACEH SALURKAN BANTUAN RP 323,5 JUTA UNTUK 13 RUMA
+[2026-09-18 11:54:27]   Selesai: [71937] Gubernur Mualem Minta Bupati/Walikota se-Aceh Siapsiaga Pote
+[2026-09-18 11:54:30]   Selesai: [71940] WAGUB ACEH KUNJUNGI HAMPIR SEMUA STAND EXPO UMKM PIDIE, BELA
+[2026-09-18 11:54:32]   Selesai: [71943] Wagub Aceh Dukung Dua Atlet Menembak Aceh Berlaga di Asian G
+[2026-09-18 11:54:32] Pipeline selesai. State diupdate ke 2026-09-17T22:54:20.
+[2026-09-19 16:57:47] Mulai pipeline harian. Cek berita baru sejak 2026-09-17T22:54:20...
+[2026-09-19 16:57:52] Tidak ada berita baru. Selesai.
+[2026-09-20 14:58:54] Mulai pipeline harian. Cek berita baru sejak 2026-09-17T22:54:20...
+[2026-09-20 14:59:00] Ditemukan 2 berita baru.
+[2026-09-20 14:59:04]   Selesai: [71946] WAGUB ACEH BERTEMU KAFILAH MTQ NASIONAL XXXI DI SEMARANG, DO
+[2026-09-20 14:59:06]   Selesai: [71949] Aceh Raih Peringkat 4 Nasional, Wagub Fadhlullah Apresiasi P
+[2026-09-20 14:59:06] Pipeline selesai. State diupdate ke 2026-09-20T07:35:54.
+[2026-09-21 08:48:58] Mulai pipeline harian. Cek berita baru sejak 2026-09-20T07:35:54...
+[2026-09-21 08:49:01] Tidak ada berita baru. Selesai.
+[2026-09-21 09:23:22] Mulai pipeline harian. Cek berita baru sejak 2026-09-20T07:35:54...
+[2026-09-21 09:23:26] Tidak ada berita baru. Selesai.
+[2026-09-22 09:38:47] Mulai pipeline harian. Cek berita baru sejak 2026-09-20T07:35:54...
+[2026-09-22 09:38:51] Ditemukan 1 berita baru.
+[2026-09-22 09:38:55]   Selesai: [71953] Tambahan TKD Rp1,65 Triliun untuk Aceh, Anggaran Bencana Har
+[2026-09-22 09:38:55] Pipeline selesai. State diupdate ke 2026-09-22T08:18:33.
+[2026-09-23 09:13:38] Mulai pipeline harian. Cek berita baru sejak 2026-09-22T08:18:33...
+[2026-09-23 09:13:42] Tidak ada berita baru. Selesai.
+[2026-09-23 09:30:12] Mulai pipeline harian. Cek berita baru sejak 2026-09-22T08:18:33...
+[2026-09-23 09:30:17] Tidak ada berita baru. Selesai.
+[2026-09-24 09:11:38] Mulai pipeline harian. Cek berita baru sejak 2026-09-22T08:18:33...
+[2026-09-24 09:11:43] Ditemukan 3 berita baru.
+[2026-09-24 09:11:47]   Selesai: [71955] Dek Fadh Ikuti Rakor Perkembangan Rehabilitasi dan Rekonstru
+[2026-09-24 09:11:48]   Selesai: [71958] Wagub Dek Fadh Pimpin Rapat Tim Revisi UUPA, Pastikan Kewena
+[2026-09-24 09:11:50]   Selesai: [71961] Terima Audiensi Angkasa Pura, Wagub Dek Fadh Dukung Penguata
+[2026-09-24 09:11:50] Pipeline selesai. State diupdate ke 2026-09-23T21:20:08.
+[2026-09-25 16:48:57] Mulai pipeline harian. Cek berita baru sejak 2026-09-23T21:20:08...
+[2026-09-26 12:08:38] Mulai pipeline harian. Cek berita baru sejak 2026-09-23T21:20:08...
+[2026-09-27 14:25:00] Mulai pipeline harian. Cek berita baru sejak 2026-09-23T21:20:08...
+[2026-09-27 14:26:22] Ditemukan 6 berita baru.
+[2026-09-27 14:26:26]   Selesai: [71964] Wagub Dek Fadh Terima Kunjungan FPRMI Aceh
+[2026-09-27 14:26:28]   Selesai: [71967] Wagub Aceh Dek Fadh Bertakziah ke Rumah Duka Sjamsul Kahar, 
+[2026-09-27 14:26:30]   Selesai: [71973] Wagub Aceh Hadiri Haul Ummi Arongan ke-1, Pererat Silaturahm
+[2026-09-27 14:26:34]   Selesai: [71970] Realisasi Tambahan TKD Aceh 2026 Tembus 30,16 Persen, Total 
+[2026-09-27 14:26:35]   Selesai: [71976] Dek Fadh Bakar Semangat 510 Laskar Gerindra Aceh
+[2026-09-27 14:26:36]   Selesai: [71981] WAGUB ACEH DEK FADH SILATURAHMI KE RUMAH DUKA IBUNDA TGK. MU
+[2026-09-27 14:26:36] Pipeline selesai. State diupdate ke 2026-09-27T10:18:35.
+[2026-09-28 09:16:05] Mulai pipeline harian. Cek berita baru sejak 2026-09-27T10:18:35...
+[2026-09-28 09:16:10] Ditemukan 1 berita baru.
+[2026-09-28 09:16:16]   Selesai: [71984] WAGUB ACEH DEK FADH HADIRI MAULID NABI DAN MUZAKARAH ULAMA A
+[2026-09-28 09:16:16] Pipeline selesai. State diupdate ke 2026-09-27T15:08:19.
+[2026-09-28 10:00:03] Mulai pipeline harian. Cek berita baru sejak 2026-09-27T15:08:19...
+[2026-09-28 10:00:08] Tidak ada berita baru. Selesai.
+[2026-09-29 10:00:03] Mulai pipeline harian. Cek berita baru sejak 2026-09-27T15:08:19...
+[2026-09-29 10:00:08] Ditemukan 2 berita baru.
+[2026-09-29 10:00:10]   Selesai: [71987] Plt. Sekda Aceh Perkuat Sinergi dengan BMKG untuk Kesiapsiag
+[2026-09-29 10:00:11]   Selesai: [71990] Plt Sekda Aceh Hadiri Peringatan Maulid Nabi di Dayah Darul 
+[2026-09-29 10:00:11] Pipeline selesai. State diupdate ke 2026-09-28T21:58:30.
+[2026-09-29 11:06:24] Mulai pipeline harian. Cek berita baru sejak 2026-09-28T21:58:30...
+[2026-09-29 11:06:28] Tidak ada berita baru. Selesai.
+[2026-09-30 10:00:09] Mulai pipeline harian. Cek berita baru sejak 2026-09-28T21:58:30...
+[2026-09-30 10:00:15] Ditemukan 1 berita baru.
+[2026-09-30 10:00:17]   Selesai: [71995] Plt Sekda Aceh Terima Audiensi Terkait Pengembangan KEK Arun
+[2026-09-30 10:00:18] Pipeline selesai. State diupdate ke 2026-09-29T14:09:22.
+[2026-10-01 10:00:04] Mulai pipeline harian. Cek berita baru sejak 2026-09-29T14:09:22...
+[2026-10-01 10:00:09] Ditemukan 1 berita baru.
+[2026-10-01 10:00:13]   Selesai: [72000] Plt. Sekda Dorong Percepatan Rehab-Rekon Pascabencana Hidrom
+[2026-10-01 10:00:13] Pipeline selesai. State diupdate ke 2026-09-30T16:27:02.
+[2026-10-01 11:32:23] Mulai pipeline harian. Cek berita baru sejak 2026-09-30T16:27:02...
+[2026-10-01 11:32:27] Tidak ada berita baru. Selesai.
+[2026-10-02 10:31:57] Mulai pipeline harian. Cek berita baru sejak 2026-09-30T16:27:02...
+[2026-10-02 10:33:14] Tidak ada berita baru. Selesai.
+[2026-10-03 11:00:40] Mulai pipeline harian. Cek berita baru sejak 2026-09-30T16:27:02...
+[2026-10-03 11:00:46] Ditemukan 1 berita baru.
+[2026-10-03 11:00:50]   Selesai: [72003] Wagub Dek Fadh Usulkan Penyediaan Alat Berat untuk Daerah Ra
+[2026-10-03 11:00:50] Pipeline selesai. State diupdate ke 2026-10-02T14:54:46.
+[2026-10-04 10:07:57] Mulai pipeline harian. Cek berita baru sejak 2026-10-02T14:54:46...
+[2026-10-04 10:08:02] Tidak ada berita baru. Selesai.
+[2026-10-05 11:47:53] Mulai pipeline harian. Cek berita baru sejak 2026-10-02T14:54:46...
+[2026-10-05 11:47:57] Tidak ada berita baru. Selesai.
+[2026-10-06 10:00:05] Mulai pipeline harian. Cek berita baru sejak 2026-10-02T14:54:46...
+[2026-10-06 10:00:11] Ditemukan 2 berita baru.
+[2026-10-06 10:00:14]   Selesai: [72008] Tinjau D.I. Seunong, Wagub Dek Fadh Dorong Perbaikan Segera
+[2026-10-06 10:00:17]   Selesai: [72011] Wagub Aceh Dek Fadh Tinjau Sejumlah Infrastruktur dan Kondis
+[2026-10-06 10:00:17] Pipeline selesai. State diupdate ke 2026-10-05T20:37:24.
+[2026-10-07 11:07:16] Mulai pipeline harian. Cek berita baru sejak 2026-10-05T20:37:24...
+[2026-10-07 11:07:31] Tidak ada berita baru. Selesai.
+[2026-10-08 10:00:05] Mulai pipeline harian. Cek berita baru sejak 2026-10-05T20:37:24...
+[2026-10-08 10:00:17] Tidak ada berita baru. Selesai.
+[2026-10-09 11:13:34] Mulai pipeline harian. Cek berita baru sejak 2026-10-05T20:37:24...
+[2026-10-09 11:14:11] Ditemukan 5 berita baru.
+[2026-10-09 11:14:16]   Selesai: [72018] Plt. Sekda Aceh Ikuti Rapat Persiapan Pelaksanaan PORA XV Ac
+[2026-10-09 11:14:18]   Selesai: [72021] Dek Fadh Temui Yusril, Perkuat Lobi Strategis untuk Masa Dep
+[2026-10-09 11:14:19]   Selesai: [72024] Plt. Sekda Aceh Hadiri Rapat Paripurna DPRA
+[2026-10-09 11:14:21]   Selesai: [72027] Plt Sekda Aceh dan Pimpinan DPRA Teken Persetujuan Bersama K
+[2026-10-09 11:14:24]   Selesai: [72030] Tindaklanjuti Arahan Mendagri, Dek Fadh Minta Alat Berat Sta
+[2026-10-09 11:14:24] Pipeline selesai. State diupdate ke 2026-10-08T20:40:49.
+[2026-10-10 11:31:51] Mulai pipeline harian. Cek berita baru sejak 2026-10-08T20:40:49...
+[2026-10-11 11:50:13] Mulai pipeline harian. Cek berita baru sejak 2026-10-08T20:40:49...
+[2026-10-11 11:50:17] Ditemukan 4 berita baru.
+[2026-10-11 11:50:20]   Selesai: [72035] Waspada Nomor WhatsApp Catut Nama Plt Sekda Aceh Taufik
+[2026-10-11 11:50:23]   Selesai: [72038] Plt. Sekda Aceh Buka SYAFIF Goes to Aceh, Dorong Penguatan E
+[2026-10-11 11:50:24]   Selesai: [72041] Plt. Sekda Aceh Buka Pelatihan Kode Etik Jurnalistik AMSI
+[2026-10-11 11:50:25]   Selesai: [72044] Plt. Sekda Aceh Hadiri Silaturrahmi Akbar Masyarakat Aceh Te
+[2026-10-11 11:50:25] Pipeline selesai. State diupdate ke 2026-10-10T15:01:28.
+[2026-10-12 10:22:21] Mulai pipeline harian. Cek berita baru sejak 2026-10-10T15:01:28...
+[2026-10-12 10:22:28] Ditemukan 1 berita baru.
+[2026-10-12 10:22:33]   Selesai: [72047] WAGUB ACEH DEK FADH HADIRI PEUSIJEUK DAN TASYAKURAN UNTUK TI
+[2026-10-12 10:22:33] Pipeline selesai. State diupdate ke 2026-10-11T15:25:43.
+[2026-10-13 10:08:20] Mulai pipeline harian. Cek berita baru sejak 2026-10-11T15:25:43...
+[2026-10-13 10:08:24] Ditemukan 1 berita baru.
+[2026-10-13 10:08:28]   Selesai: [72050] Dek Fadh Hadiri Peringatan Maulid di Dayah Terpadu Inshafudd
+[2026-10-13 10:08:28] Pipeline selesai. State diupdate ke 2026-10-12T16:11:09.
+[2026-10-14 10:24:16] Mulai pipeline harian. Cek berita baru sejak 2026-10-12T16:11:09...
+[2026-10-15 10:00:07] Mulai pipeline harian. Cek berita baru sejak 2026-10-12T16:11:09...
+[2026-10-16 10:21:26] Mulai pipeline harian. Cek berita baru sejak 2026-10-12T16:11:09...
+[2026-10-16 10:21:34] Ditemukan 5 berita baru.
+[2026-10-16 10:21:38]   Selesai: [72054] Mualem Lantik Taufik sebagai Penjabat Sekda Aceh
+[2026-10-16 10:21:39]   Selesai: [72074] Mualem Upayakan Listrik Gratis di Huntara Korban Banjir Aceh
+[2026-10-16 10:21:42]   Selesai: [72060] Gubernur Aceh Mualem Tinjau Pemulihan Pascabencana di Aceh T
+[2026-10-16 10:21:43]   Selesai: [72067] Dek Fadh Bersama Abu Paya Pasie dan Ketua DPRA, Temui Menko 
+[2026-10-16 10:21:46]   Selesai: [72070] Pj Sekda Aceh Minta Percepatan Rehabilitasi Terminal Aceh Ta
+[2026-10-16 10:21:46] Pipeline selesai. State diupdate ke 2026-10-13T23:13:03.
+[2026-10-17 11:20:54] Mulai pipeline harian. Cek berita baru sejak 2026-10-13T23:13:03...
+[2026-10-17 11:20:59] Ditemukan 2 berita baru.
+[2026-10-17 11:21:02]   Selesai: [72080] Gubernur Aceh Imbau Masyarakat Waspada Dampak Kabut Asap Kar
+[2026-10-17 11:21:04]   Selesai: [72083] Realisasi Anggaran Tambahan TKD Aceh 2026 Capai Rp 621,96 Mi
+[2026-10-17 11:21:04] Pipeline selesai. State diupdate ke 2026-10-17T09:57:49.
+[2026-10-18 15:45:12] Mulai pipeline harian. Cek berita baru sejak 2026-10-17T09:57:49...
+[2026-10-18 15:45:17] Tidak ada berita baru. Selesai.
+[2026-10-19 13:51:40] Mulai pipeline harian. Cek berita baru sejak 2026-10-17T09:57:49...
+[2026-10-19 13:51:46] Ditemukan 3 berita baru.
+[2026-10-19 13:51:50]   Selesai: [72088] Wagub Aceh Dek Fadh Hadiri Maulid Nabi di Gampong Baroh Bara
+[2026-10-19 13:51:52]   Selesai: [72091] Wagub Dek Fadh dan Forkopimda Sambut Pangdam IM Brigjen TNI 
+[2026-10-19 13:51:53]   Selesai: [72095] Pj Sekda Aceh Ajak IKNR Perkuat Persatuan dan Berkontribusi 
+[2026-10-19 13:51:53] Pipeline selesai. State diupdate ke 2026-10-18T19:33:17.
+[2026-10-20 13:36:20] Mulai pipeline harian. Cek berita baru sejak 2026-10-18T19:33:17...
+[2026-10-20 13:36:25] Ditemukan 3 berita baru.
+[2026-10-20 13:36:28]   Selesai: [72098] Misi Dagang Aceh-Jatim Catat Transaksi Rp1,079 Triliun, Wagu
+[2026-10-20 13:36:30]   Selesai: [72101] Pj. Sekda Aceh Wakili Gubernur pada Pembukaan Rakernas XX BE
+[2026-10-20 13:36:32]   Selesai: [72104] Dek Fadh Hadiri Sertijab Pangdam Iskandar Muda, Serahkan Cin
+[2026-10-20 13:36:32] Pipeline selesai. State diupdate ke 2026-10-19T23:20:05.
+[2026-10-21 10:55:37] Mulai pipeline harian. Cek berita baru sejak 2026-10-19T23:20:05...
+[2026-10-21 10:55:44] Ditemukan 1 berita baru.
+[2026-10-21 10:55:48]   Selesai: [72111] Dek Fadh Minta Kerja Sama Pemkab agar Pembangunan Huntap Tun
+[2026-10-21 10:55:48] Pipeline selesai. State diupdate ke 2026-10-20T19:49:05.
+[2026-10-22 11:21:56] Mulai pipeline harian. Cek berita baru sejak 2026-10-20T19:49:05...
+[2026-10-22 11:22:02] Ditemukan 1 berita baru.
+[2026-10-22 11:22:07]   Selesai: [72114] Dek Fadh Bersama Wakil Ketua KPK Serahkan Penghargaan Desa A
+[2026-10-22 11:22:07] Pipeline selesai. State diupdate ke 2026-10-21T12:20:21.
+[2026-10-23 11:33:54] Mulai pipeline harian. Cek berita baru sejak 2026-10-21T12:20:21...
+[2026-10-23 11:33:59] Ditemukan 2 berita baru.
+[2026-10-23 11:34:02]   Selesai: [72117] Pj Sekda dan Seluruh Kepala SKPA Ikuti Bimtek Keluarga Berin
+[2026-10-23 11:34:03]   Selesai: [72120] Hadiri Rakornas TPAKD 2026, Wagub Dek Fadh Perkuat Akses Keu
+[2026-10-23 11:34:03] Pipeline selesai. State diupdate ke 2026-10-22T17:37:35.
+[2026-10-24 13:26:20] Mulai pipeline harian. Cek berita baru sejak 2026-10-22T17:37:35...
+[2026-10-24 13:26:25] Ditemukan 2 berita baru.
+[2026-10-24 13:26:28]   Selesai: [72126] WAGUB ACEH DEK FADH DAMPINGI KAPOLRI DI PIDIE, APRESIASI PEN
+[2026-10-24 13:26:30]   Selesai: [72128] Pj. Sekda Aceh Hadiri Pembukaan Meuseuraya Festival 2026
+[2026-10-24 13:26:30] Pipeline selesai. State diupdate ke 2026-10-23T23:34:08.
+[2026-10-25 13:40:59] Mulai pipeline harian. Cek berita baru sejak 2026-10-23T23:34:08...
+[2026-10-25 13:41:04] Tidak ada berita baru. Selesai.
+[2026-10-26 08:56:56] Mulai pipeline harian. Cek berita baru sejak 2026-10-23T23:34:08...
+[2026-10-26 08:57:38] Ditemukan 1 berita baru.
+[2026-10-26 08:57:40]   Selesai: [72131] Dek Fadh Pimpin Rapat Lanjutan Pembahasan Perubahan UUPA
+[2026-10-26 08:57:40] Pipeline selesai. State diupdate ke 2026-10-25T23:23:17.
+[2026-10-26 10:00:09] Mulai pipeline harian. Cek berita baru sejak 2026-10-25T23:23:17...
+[2026-10-26 10:00:15] Tidak ada berita baru. Selesai.
