@@ -9,7 +9,7 @@ app = FastAPI(title="Aceh News RAG API")
 # "*" hanya buat development lokal.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://tanyaaceh.vercel.app", "http://localhost:3000"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
